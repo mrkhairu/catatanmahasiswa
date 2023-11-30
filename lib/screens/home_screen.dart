@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "Your Recent Notes", 
+            "Catatan", 
           style: GoogleFonts.roboto(
            color: Colors.white, 
            fontWeight: FontWeight.bold, 
