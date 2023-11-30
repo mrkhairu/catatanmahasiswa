@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674597104380",
+    "project_id": "catatan-883db",
+    "storage_bucket": "catatan-883db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674597104380:android:4e600ffd4983079ec08579",
+        "android_client_info": {
+          "package_name": "com.example.catatanmahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Klw3lOxo4VcuTthTH1KWUK8GVFN9ANg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
